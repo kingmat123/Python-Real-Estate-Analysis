@@ -1,0 +1,1 @@
+A data analysis project using Python and the Pandas library to process and analyze a dataset provided in Excel format. Tasks included data cleaning, generating summary statistics, and analyzing frequency distributions. Key insights were visualized, to explore relationships between provided data.
